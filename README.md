@@ -1,10 +1,8 @@
 # ManuallyCreatedMavenProject
 Project created without Spring Initializr, only mvn 
 
-################################
-#Previously you need:          #
-#     java and mvn installed   #
-################################
+Previously you need:          
+     java and mvn installed   
 
 1) Create repository
 2) Clone empty repository
